@@ -6,7 +6,7 @@ Pigskin Death Count is a browser-based arcade football game built with HTML5 Can
 
 Play the game through the GitHub Pages link:
 
-https://mhall350.github.io/YOUR-REPOSITORY-NAME/
+https://mhall350.github.io/Pigskin-Deathcount/
 
 ## Controls
 
